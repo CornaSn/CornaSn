@@ -1,4 +1,4 @@
-#Heeeeey, I'm Cornelia
+# Heeeeey, I'm Cornelia
 ### A full stack web developer with project management background
 
 - UpLeveled bootcamp student
